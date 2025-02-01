@@ -52,8 +52,8 @@ Voici un aperçu des fonctionnalités de l'API :
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 33.33%; text-align: center;">
-        <p>API CHATBOT</p>
-        <img src="./chatboptgen.JPG" alt="Aperçu de l'API" width="90%"/>
+        <p>Application gradio</p>
+        <img src="./Capture d’écran 2025-02-01 113901.png" alt="Aperçu de l'API" width="90%"/>
     </div>
 </div>
 
