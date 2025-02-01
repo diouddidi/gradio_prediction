@@ -59,5 +59,6 @@ Voici un aperçu des fonctionnalités de l'API :
 
 ---
 
-
+### APPLICATION SUR HUGGINGFACE
+https://huggingface.co/spaces/dididiou/prediction_depot
 
